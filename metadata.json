@@ -1,0 +1,6 @@
+{
+  "name": "Word Adventure",
+  "description": "Ultra-premium educational spelling puzzle game for children with 1000 levels, voice pronunciation, word explanations, stars, coins, XP, hearts, and celebratory animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
